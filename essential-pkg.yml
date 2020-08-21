@@ -14,5 +14,6 @@
           - vim
           - git
           - fcitx-mozc
+          - xsel
         state: latest
 
